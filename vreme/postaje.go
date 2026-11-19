@@ -16,7 +16,6 @@
 //
 //	vreme.IzpisMeritev(postaje)
 //	vreme.IzpisPorocila(postaje, 3)
-
 package vreme
 
 import (
