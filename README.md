@@ -10,4 +10,4 @@ Modul za beleženje temperaturnih meritev vremenskih postaj in izpis statistike.
 
     go get github.com/vamp3k/dn5@v1.0.1
 
-Dokumentacija: https://pkg.go.dev/github.com/vamp3k/dn5/vreme
+Dokumentacija: [https://pkg.go.dev/github.com/vamp3k/dn5/vreme](https://pkg.go.dev/github.com/vamp3k/dn5@v1.0.1/vreme)
