@@ -8,6 +8,6 @@ Modul za beleženje temperaturnih meritev vremenskih postaj in izpis statistike.
 
 ## Uporaba paketa
 
-    go get github.com/vamp3k/dn5@v1.0.0
+    go get github.com/vamp3k/dn5@v1.0.1
 
 Dokumentacija: https://pkg.go.dev/github.com/vamp3k/dn5/vreme
